@@ -1,0 +1,27 @@
+_repo: Critical-Remarks-on-Sir-Charles-Grandison-Clarissa-and-Pamela--1754-_31242
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: McKillop, Alan Dugald
+    birthdate: 1892
+    deathdate: 1974
+    gutenberg_agent_id: '35091'
+    url: http://www.gutenberg.org/2009/agents/35091
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31242'
+  lccn: '50009335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Richardson, Samuel, 1689-1761'
+title: Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela (1754)
+url: http://www.gutenberg.org/ebooks/31242
